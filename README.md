@@ -19,7 +19,7 @@ Este projeto consiste em um dashboard analítico desenvolvido em Excel para moni
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 - **Cards de Indicadores Financeiros**: Visualização rápida de Faturamento Total, Despesas e Margem de Lucro.
 - **Análise de Mix de Produtos**: Ranking dos Top 5 produtos mais vendidos e impacto no faturamento.
 - **Fluxo de Caixa Temporal**: Comparativo visual entre Entradas e Saídas (Mensal e Anual).
@@ -28,6 +28,6 @@ Este projeto consiste em um dashboard analítico desenvolvido em Excel para moni
 
 ---
 
-## 🖼️ Visualização
+## Visualização
 
 ![Dashboard Preview](./dashboard.png)
